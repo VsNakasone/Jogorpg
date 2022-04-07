@@ -1,0 +1,15 @@
+/Users/vanessasayurinakasone/Desktop/projetos_Sayuri/Jogorpg/bin/Debug/net6.0/Jogorpg
+/Users/vanessasayurinakasone/Desktop/projetos_Sayuri/Jogorpg/bin/Debug/net6.0/Jogorpg.deps.json
+/Users/vanessasayurinakasone/Desktop/projetos_Sayuri/Jogorpg/bin/Debug/net6.0/Jogorpg.runtimeconfig.json
+/Users/vanessasayurinakasone/Desktop/projetos_Sayuri/Jogorpg/bin/Debug/net6.0/Jogorpg.dll
+/Users/vanessasayurinakasone/Desktop/projetos_Sayuri/Jogorpg/bin/Debug/net6.0/Jogorpg.pdb
+/Users/vanessasayurinakasone/Desktop/projetos_Sayuri/Jogorpg/obj/Debug/net6.0/Jogorpg.csproj.AssemblyReference.cache
+/Users/vanessasayurinakasone/Desktop/projetos_Sayuri/Jogorpg/obj/Debug/net6.0/Jogorpg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vanessasayurinakasone/Desktop/projetos_Sayuri/Jogorpg/obj/Debug/net6.0/Jogorpg.AssemblyInfoInputs.cache
+/Users/vanessasayurinakasone/Desktop/projetos_Sayuri/Jogorpg/obj/Debug/net6.0/Jogorpg.AssemblyInfo.cs
+/Users/vanessasayurinakasone/Desktop/projetos_Sayuri/Jogorpg/obj/Debug/net6.0/Jogorpg.csproj.CoreCompileInputs.cache
+/Users/vanessasayurinakasone/Desktop/projetos_Sayuri/Jogorpg/obj/Debug/net6.0/Jogorpg.dll
+/Users/vanessasayurinakasone/Desktop/projetos_Sayuri/Jogorpg/obj/Debug/net6.0/refint/Jogorpg.dll
+/Users/vanessasayurinakasone/Desktop/projetos_Sayuri/Jogorpg/obj/Debug/net6.0/Jogorpg.pdb
+/Users/vanessasayurinakasone/Desktop/projetos_Sayuri/Jogorpg/obj/Debug/net6.0/Jogorpg.genruntimeconfig.cache
+/Users/vanessasayurinakasone/Desktop/projetos_Sayuri/Jogorpg/obj/Debug/net6.0/ref/Jogorpg.dll
